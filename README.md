@@ -1,2 +1,3 @@
 # tejasdemorepo
-this is my first repo <br > after learning git
+this is my first repo after learning git
+Author - Tejas Pavitre
